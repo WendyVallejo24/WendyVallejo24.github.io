@@ -9,6 +9,7 @@ import { WorkExperienceComponent } from './work-experience/work-experience.compo
 import { SkillsComponent } from './skills/skills.component';
 
 import { EducationComponent } from './education/education.component';
+import { CertificatesComponent } from './certificates/certificates.component';
 
 
 @NgModule({
@@ -17,9 +18,10 @@ import { EducationComponent } from './education/education.component';
     HeaderComponent,
     WorkExperienceComponent,
 
-    SkillsComponent
-=======
-    EducationComponent
+    SkillsComponent,
+
+    EducationComponent,
+      CertificatesComponent
 
   ],
   imports: [
