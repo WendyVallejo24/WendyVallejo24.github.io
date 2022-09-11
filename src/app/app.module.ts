@@ -21,7 +21,7 @@ import { CertificatesComponent } from './certificates/certificates.component';
     SkillsComponent,
 
     EducationComponent,
-      CertificatesComponent
+    CertificatesComponent
 
   ],
   imports: [
