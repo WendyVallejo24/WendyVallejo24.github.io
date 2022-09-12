@@ -1,0 +1,9 @@
+table{
+    background-color: rgb(247, 215, 247);
+    border-radius: 0.3cm;
+}
+
+td{
+    border-radius: 0.3cm;
+    align-items: center;
+}
