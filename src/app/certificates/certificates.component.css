@@ -4,3 +4,10 @@ h3{
     color: white;
     border-radius: 0.2cm;
 }
+
+body{
+    text-align: left;
+}
+tr{
+    text-align: left;
+}
