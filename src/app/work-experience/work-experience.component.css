@@ -1,9 +1,6 @@
 h3{
-    color : purple;
-    text-align : left;
-    font-size: 20px;
-}
-
-body{
-    background-color: bisque;
+    text-align : center;
+    background-color: purple;
+    color: white;
+    border-radius: 0.2cm;
 }

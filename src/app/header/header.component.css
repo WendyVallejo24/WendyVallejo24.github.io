@@ -1,3 +1,35 @@
-table {
-    background-color: bisque;
+body{
+    background-color: rgb(247, 215, 247);
+    border-radius: 0.3cm;
+    text-align: center;
 }
+
+img{
+    display: block;
+    border-radius: 50%;
+    margin-left: 15%;
+}
+
+tr{
+    text-align: right;
+    font-size: 15px;
+}
+
+p{
+    text-align: left;
+}
+
+li{
+    text-align: right;
+}
+
+ul{
+    text-align: right;
+    align-items : right;
+}
+
+h3{
+    text-align: left;
+}
+
+

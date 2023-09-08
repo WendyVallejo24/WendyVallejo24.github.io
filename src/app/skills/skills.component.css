@@ -1,3 +1,10 @@
+h3{
+    text-align : center;
+    background-color: purple;
+    color: white;
+    border-radius: 0.2cm;
+}
+
 p{
     text-align: right;
 }

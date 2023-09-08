@@ -1,0 +1,13 @@
+h3{
+    text-align : center;
+    background-color: purple;
+    color: white;
+    border-radius: 0.2cm;
+}
+
+body{
+    text-align: left;
+}
+tr{
+    text-align: left;
+}

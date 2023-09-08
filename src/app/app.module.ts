@@ -10,6 +10,8 @@ import { SkillsComponent } from './skills/skills.component';
 
 import { EducationComponent } from './education/education.component';
 import { CertificatesComponent } from './certificates/certificates.component';
+import { LanguageComponent } from './language/language.component';
+import { InterestsComponent } from './interests/interests.component';
 
 
 @NgModule({
@@ -21,7 +23,9 @@ import { CertificatesComponent } from './certificates/certificates.component';
     SkillsComponent,
 
     EducationComponent,
-      CertificatesComponent
+    CertificatesComponent,
+    LanguageComponent,
+    InterestsComponent
 
   ],
   imports: [
